@@ -31,7 +31,6 @@ This project aims to solve that by building a smart system that recommends resta
 4. Displays them on a simple web page.
 
 
-(restaurant_recommendation.jpg)
-
+/restaurant_recommendation.jpg
 
 
