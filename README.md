@@ -1,7 +1,8 @@
 # 🍽️ basic Restaurant Recommendation System 
 
 This is my **first-ever project** — a beginner-level **Restaurant Recommendation System** ! 
-It recommends restaurants based on factors like **cuisine**, **ratings**, **price**, and **distance** — all through a web interface!
+It recommends restaurants based on factors like **cuisine**, **ratings**, **price**, and **distance** — 
+scrapped data of 6 cities from swiggy!
 
 ---
 
@@ -10,14 +11,6 @@ It recommends restaurants based on factors like **cuisine**, **ratings**, **pric
 With so many restaurants to choose from, users often struggle to find the best options quickly.  
 This project aims to solve that by building a smart system that recommends restaurants based on user preferences.
 
----
-
-## 🌐 Live Demo
-
-> *(Optional: Add the URL if hosted online — like Render, Vercel, or Railway)*  
-> **Coming soon!**
-
----
 
 ## ⚙️ Tech Stack
 
@@ -37,11 +30,8 @@ This project aims to solve that by building a smart system that recommends resta
 3. Returns top 5 most similar restaurants.
 4. Displays them on a simple web page.
 
----
 
-## 📷 Screenshots
-
-> Upload your app screenshots (UI, output, etc.) in a `screenshots/` folder and link them below:
+(restaurant_recommendation.jpg)
 
 
 
